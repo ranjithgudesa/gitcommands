@@ -1,1 +1,5 @@
 touch file (for add file in repository)
+git status ( for status in like modified or not)
+git add file name ( for staging)
+git log ( for commit history)
+git push origin main (main is like branch name)
