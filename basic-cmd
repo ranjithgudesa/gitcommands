@@ -7,7 +7,10 @@ git branch( gor list of branch's)
 git branch ranjith(for adding branch)
 git checkout ( for move to another branch)
 git pull origin main (pull is for download)
+<<<<<<< HEAD
 git restore file name (for undo (like cntrl z))
 git restore --staged file name ( undo in staged file)
 sdljy
 sdljy
+=======
+>>>>>>> 54caa178d98b5bde334b9f58c06bd7d9ddacd685
